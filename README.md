@@ -77,7 +77,8 @@ plt.tight_layout()
 plt.show()
 
 ## output :
-![image](https://github.com/user-attachments/assets/e7c3c3ac-9baf-4fca-9ccb-a846989d35ee)
+![graph digital](https://github.com/user-attachments/assets/33634506-4852-486e-a45e-437d93cd1e3b)
+
 
 ## Result :
 The binary data was successfully modulated using Amplitude Shift Keying (ASK).
